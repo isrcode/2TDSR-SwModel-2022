@@ -1,5 +1,2 @@
 # 2TDSR-SwModel-2022
-
-
-
-Exemplificação GiT
+Exemplificação GiT usando HUB GIT Flow
