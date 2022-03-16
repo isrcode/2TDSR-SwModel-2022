@@ -1,2 +1,3 @@
-# 2TDSR-SwModel-2022
-Exemplifica√ß√£o GiT usando HUB e Flow
+#2TDSR-SwModel-2022
+ExemplificaÁ„o GiT usando HUB e Flow
+#Revis√£o de aula
